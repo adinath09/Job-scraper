@@ -97,4 +97,3 @@ Both CSVs use the same schema:
 `master_jobs.csv` grows over time.
 `delta_jobs.csv` only contains the new jobs from the latest run.
 
-If you want, I can rewrite this again in an even more minimal or more “junior developer” style — just tell me the tone you're aiming for.
